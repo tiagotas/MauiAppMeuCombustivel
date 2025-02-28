@@ -1,7 +1,13 @@
-Repositório do projeto do Meu Combustível com .NET MAUI
+Repositório do projeto do Meu Combustível com .NET MAUI, primeiro App testando entrada, processamento e saída de dados.
+
+## Sobre o curso de Desenvolvimento de Apps com .NET MAUI
+Essa é a primeira aula de 16 do nosso curso de desenvolvimento de aplicativos Android/Windows com .NET MAUI
+- [Videoaula 1 - Instalação do Visual Studio 2022 e Configurações](https://www.youtube.com/watch?v=HCiwRZm_APo&list=PLHVpcBDJr5dmdDjPw11d9Iqhh0gX_laJR )
+- [Videoaula 3 - Criação de um Jogo da Velha com .NET MAUI](https://github.com/tiagotas/MauiAppJogoDaVelha)
 
 ## Playlist com todas as videoaulas de Apps com .NET MAUI
 - [https://www.youtube.com/playlist?list=PLHVpcBDJr5dlTaaogjFikUDrw1E6PlODf](https://www.youtube.com/watch?v=HCiwRZm_APo&list=PLHVpcBDJr5dmdDjPw11d9Iqhh0gX_laJR)
+
 
 ## Conteúdo das Videoaulas
 ### VIDEOAULA: AULA 2 - CRIANDO APLICATIVOS COM .NET MAUI - APP MEU COMBUSTIVEL (45mim):
